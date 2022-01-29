@@ -8,7 +8,7 @@ If the camera or NVR do not have motion detection, you will have to use a separa
 **NOTE:** 2-way audio is not currently supported.
 
 ## Codec Settings for HomeKit
-Configure optimal code settings (as required by HomeKit) through HikVision's configuration webpage or device interface (not Scrypted).
+Configure optimal codec settings (as required by HomeKit) through HikVision's configuration webpage or device interface (not Scrypted).
 
 HikVision's [iVMS 4200 software](https://www.hikvision.com/en/support/tools/), or similar, may be utilized to configure device as well as create a motion detection grid (required for motion detection and hardware dependent).
 
